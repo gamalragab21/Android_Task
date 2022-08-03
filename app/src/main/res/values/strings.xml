@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Android Task</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? <b>Register</b></string>
+    <string name="email_or_phone">Email or Phone </string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="have_an_account_login">Have an account? <b>Login</b></string>
+    <string name="name_is_empty">name is empty</string>
+    <string name="email_is_empty">Email is empty</string>
+    <string name="phone_is_empty">Phone is empty</string>
+    <string name="address_is_empty">Address is empty</string>
+    <string name="password_is_empty">Password is empty</string>
+    <string name="confirm_password_is_empty">Confirm password is empty</string>
+    <string name="confirm_password_not_match">Confirm Password not match password</string>
+    <string name="email_is_not_vaild">Email not vaild</string>
+    <string name="phone_is_not_vaild">Phone is not vaild</string>
+    <string name="password_include_1_number">Password must be include 1 number and 1 special character</string>
+    <string name="password_up_low_case">Password must be includes uppercase and lowercase litter</string>
+    <string name="password_grate_than_8">Password must be grater than 8 character</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="username_is_empty">Username is empty</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Mobile Number</string>
+    <string name="description">Description</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Read Less</string>
+    <string name="loging_out">Logout</string>
+    <string name="are_you_sure_you_want_to_log_out">Are you sure you want to log out?</string>
+    <string name="yes">Okay</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

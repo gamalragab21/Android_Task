@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/drawable/bg_view_small_simmer.xml" value="0.167" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/drawable/border_circle.xml" value="0.167" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/drawable/btn_gradient_primary_cir.xml" value="0.167" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/drawable/cart_circle.xml" value="0.167" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/drawable/circle_dialoge.xml" value="0.167" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/drawable/ic_baseline_keyboard_backspace_24.xml" value="0.167" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/drawable/ic_featured.xml" value="0.167" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/drawable/ic_image.xml" value="0.167" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/drawable/ic_shape_new_price.xml" value="0.167" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/drawable/red_circle.xml" value="0.167" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/layout/activity_main.xml" value="0.24114583333333334" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/layout/fragment_register.xml" value="0.2552083333333333" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/layout/fragment_splash.xml" value="0.2552083333333333" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/layout/framgent_home.xml" value="0.2552083333333333" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/layout/item_product_layout.xml" value="0.25" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/layout/item_product_layout_holder.xml" value="0.5" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/layout/logout_dialog_layout.xml" value="0.2669138090824838" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/layout/register_fragment.xml" value="0.6125" />
+        <entry key="..\:/Important/AndroidTask/app/src/main/res/layout/show_product_details_dialoge.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
