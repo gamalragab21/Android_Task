@@ -5,8 +5,8 @@ Simple Shop App used to show some products in the popular brands,
 1- Login Screen
 2- Register screen 
 3- HomeScreen
-4- Popup view to show details product
-
+4- Popup dialog view to show details product
+  
 
 ## technology 
 used 
